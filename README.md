@@ -1,6 +1,6 @@
 # Docker OpenVPN Access Server (openvpn-as)
-
-An updated version of the now **DEPRECATED** [linuxserver/openvpn-as](https://github.com/linuxserver/docker-openvpn-as) docker image to be run on actual hardware, precisely on Ubuntu 22.04 LTS
+Docker OpenVPN 访问服务器 (openvpn-as)
+现已弃用的 linuxserver/openvpn-as docker 映像的更新版本，可在实际硬件上运行，准确地说是在 Ubuntu 22.04 LTS 上
 
 [![GitHub Stars](https://img.shields.io/github/stars/stdevPavelms/openvpn-as.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/stdevPavelmc/openvpn-as)
 [![GitHub Release](https://img.shields.io/github/release/stdevPavelmc/openvpn-as.svg?color=94398d&labelColor=555555&logoColor=ffffff&style=for-the-badge&logo=github)](https://github.com/stdevPavelmc/openvpn-as/releases)
